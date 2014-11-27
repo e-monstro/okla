@@ -1,0 +1,1 @@
+<img src="/local/markup/img/blk.jpg" alt="Alternate Text" />
